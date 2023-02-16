@@ -1,0 +1,371 @@
+
+/*start respnsive*/
+
+@media(max-width: 350px){/*custome screen small*/
+    .logo{
+        font-size: 15px;
+        margin-right: 1.5rem;
+
+    }
+    .pos-f-t{
+        margin-left: 0;
+    }
+    .img-fluid{
+    top: 25%;
+    max-width: 100%;
+    font-size: 3rem;
+    }
+    .collapse{
+        width: 12.5rem;
+    }
+    .follw a i{
+        visibility: hidden;
+    }
+    .nav-item{
+        width: 10rem;
+
+    }
+    .nav-link{
+        padding: 0 -5rem;
+      margin-left: -1.5rem;
+      background-color: #fff;
+    }
+    .card-title{
+        width: 100%;
+        font-size: 20px;
+    }
+    .card-text{
+        font-size: 25px;
+    }
+    .card-img-top{
+        max-width: 100%;
+    }
+    .btn{
+        margin-top: 0;
+    }
+    /*start about*/
+   
+    /*start footer*/
+    .social_footer li{
+        top: 800%;
+        left: 25%;
+        width: auto;;
+       
+    }
+    .lacation{
+       margin-bottom: 20rem;
+    }
+    .footer .links h3{
+      left: 0;
+      bottom: 0;
+    }
+    .footer .links ul{
+        left: 0;
+      bottom: 0;
+    }
+    h2 img{
+        max-width: 100%;
+    }
+    .footer{
+        text-align: center;
+    }
+    small{
+        position: relative;
+        left: 40%;
+    }
+    
+}
+
+
+
+
+@media(max-width: 767px){/*screen small*/
+    .logo{
+        font-size: 15px;
+        margin-right: 1.5rem;
+
+    }
+    .pos-f-t{
+        margin-left: 0;
+    }
+    .img-fluid{
+    top: 25%;
+    max-width: 100%;
+    font-size: 3rem;
+    }
+    .collapse{
+        width: 12.5rem;
+    }
+    .follw a i{
+        visibility: hidden;
+    }
+    .nav-item{
+        width: 10rem;
+
+    }
+    .nav-link{
+        padding: 0 -5rem;
+      margin-left: -1.5rem;
+      background-color: #fff;
+    }
+    /*start home*/
+    .card-img-top{
+        max-width: 100%;
+        left: 0;
+        margin-top: 49rem;
+       
+    }
+    .card-text{
+        width: 100%;
+      font-size: 15px;
+    } 
+    /*end home*/
+
+    /*start about*/
+    .card-text-about{
+        width: 100%;
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .rounded{
+        max-width: 100%;
+        margin-bottom: 15rem;
+    }
+    /*start properties*/
+    .d-block{
+        max-width: 100%;
+    }
+    .hidden{
+        visibility: hidden;
+    }
+    .par{
+        max-width: 100%;
+        font-size: 10px;
+        margin-bottom: 10rem;
+    }
+    /*start contact*/
+    .input-group{
+        max-width: 100%;
+    }
+    .btn-contact{
+        left: 0;
+    }
+    /*start footer*/
+    .social_footer li{
+        top: 800%;
+        left: 35%;
+       
+       
+    }
+    .lacation{
+       margin-bottom: 20rem;
+    }
+    .footer .links h3{
+      left: 0;
+      bottom: 0;
+    }
+    .footer .links ul{
+        left: 0;
+      bottom: 0;
+    }
+    h2 img{
+        max-width: 100%;
+    }
+    .footer{
+        text-align: center;
+    }
+    small{
+        position: relative;
+        left: 80%;
+    }
+
+@media(min-width: 768px){/*meadium screen*/
+    .logo{
+        font-size: 15px;
+        margin-right: 1.5rem;
+
+    }
+    .pos-f-t{
+        margin-left: 0;
+    }
+    .img-fluid{
+    top: 50%;
+    max-width: 100%;
+    font-size: 3rem;
+    }
+    .collapse{
+        width: 12.5rem;
+    }
+    .follw a i{
+        visibility: hidden;
+    }
+    .nav-item{
+        width: 10rem;
+
+    }
+    .nav-link{
+        padding: 0 -5rem;
+      margin-left: -1.5rem;
+      background-color: none;
+    }
+    /*start home*/
+    .card-img-top{
+        max-width: 50%;
+    }
+    .img-fluid{
+        top: 0;
+        max-width: 100%;
+        font-size: 3rem;
+        }
+        /*start about*/
+        .card-text-about{
+            width: 60%;
+            font-size: 10px;
+            font-weight: 500;
+        }
+        .rounded{
+            max-width: 100%;
+            
+        }
+
+        /*start properties*/
+    .d-block{
+        max-width: 100%;
+    }
+    
+    .par{
+        max-width: 80%;
+        font-size: 10px;
+        margin-bottom: 15rem;
+    }
+       /*start contact*/
+       .btn-contact{
+        left: 0;
+        width: 500px;
+       }
+       /*start footer*/
+      
+      
+   
+}
+
+@media(min-width: 992px){
+    .logo{
+        font-size: 15px;
+        margin-right: 1.5rem;
+
+    }
+    .pos-f-t{
+        margin-left: 0;
+    }
+    .img-fluid{
+    top: 0;
+    max-width: 100%;
+    font-size: 3rem;
+    }
+    .collapse{
+        width: 12.5rem;
+    }
+    .follw a i{
+        visibility: hidden;
+    }
+    .nav-item{
+        width: 10rem;
+
+    }
+    .nav-link{
+        padding: 0 -5rem;
+      margin-left: -1.5rem;
+      background-color: none;
+    }
+    /*start home*/
+    .card{
+        margin-left:2.5rem;
+    }
+    .card-img-top{
+        max-width: 100%;
+    }
+    /*start about*/
+    .card-text-about{
+        width: 60%;
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .rounded{
+        max-width: 100%;
+        
+    }
+    /*start properties*/
+    .d-block{
+        max-width:30%;
+        margin-bottom: 1rem;
+        text-align: center;
+        padding: 3rem 2rem;
+    }
+     .par{
+        font-size: 15px;
+        color: #fff;
+       max-width: 50%;
+       margin-bottom: 0;
+        
+    }
+    .social_footer{
+        visibility: unset;
+    }
+
+}
+@media(min-width: 1200px){/*large screen*/
+    .collapse{
+        width: 25rem;
+    }
+    .logo{
+        font-size: 30px;
+    }
+    .nav-item{
+        width: 17rem;
+    }
+    .follw a i{
+        visibility: unset;
+    }
+    /*start home*/
+    .img-fluid{
+        left: 0%;
+        max-width: 70%;
+    }
+   .card{
+    margin-left: 15rem;
+
+    }
+    /*start about*/
+    .card-text-about{
+        width: 60%;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .rounded{
+        max-width: 100%;
+        
+    }
+    /*start properties*/
+   .carousel{
+    max-width: 55%;
+
+    }
+    .d-block{
+        max-width: 30%;
+    }
+    .par{
+        max-width: 50%;
+    }
+    /*start conatct*/
+    .btn-contact{
+        left: 20%;
+        width: 250px;
+    }
+    /*start footer*/
+    .social_footer{
+        visibility: unset;
+    }
+}
+}
+
